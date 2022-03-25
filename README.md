@@ -4,9 +4,11 @@
 Nesse curso voce vai dominar **as informacoes necessarias** para trabalhar com essas _ferramentas_
 
 ## modulos
+* Começando com git
+* Aprendendo sobre *branch*
+* Git avançado
+* Usando de forma _pratica_. 
 
-_entendendo o que é **git**,
-trabalhando com **branches**_
 
 ### Rede sociais
 [Instagram](http://instagram.com/jonasfsoares)
