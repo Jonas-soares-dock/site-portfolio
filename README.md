@@ -17,3 +17,11 @@ Nesse curso voce vai dominar **as informacoes necessarias** para trabalhar com e
 >
 >Segunda area destacada
 
+**Exemplo de uso do code**
+````js
+function shoowname (nome){
+    return 'Bem vindo : ' + name;
+
+}
+
+````
