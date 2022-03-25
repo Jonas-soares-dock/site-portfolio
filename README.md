@@ -12,3 +12,8 @@ Nesse curso voce vai dominar **as informacoes necessarias** para trabalhar com e
 
 ### Rede sociais
 [Instagram](http://instagram.com/jonasfsoares)
+
+>Este é um blockquote para destacar uma area.
+>
+>Segunda area destacada
+
