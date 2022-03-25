@@ -1,2 +1,8 @@
-# site-portfolio
-esse é um projeto de portfolio com html css e javacript (aprendendo a usar o github)
+# Bem vindo ao curso git e github
+Nesse curso voce vai dominar as informacoes necessarias para trabalhar com essas ferramentas
+
+## modulos
+
+entendendo o que é git
+trabalhando com branches
+
